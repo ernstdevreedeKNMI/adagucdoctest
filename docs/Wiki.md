@@ -13,21 +13,21 @@ Services (WCS) for downloading raster data.
 Checkout our workshop announcement for 2018:
 --------------------------------------------
 
--   https://dev.knmi.nl/attachments/download/8071/ADAGUC\_workshop\_2018\_21till23-November.pdf
--   https://dev.knmi.nl/projects/adagucserver/wiki/Workshop\_2018
+-   [https://dev.knmi.nl/attachments/download/8071/ADAGUC\_workshop\_2018\_21till23-November.pdf]
+-   [https://dev.knmi.nl/projects/adagucserver/wiki/Workshop\_2018]
 
 Topics
 ------
 
 -   [Workshops](Workshops.md)
--   [Overview|Overview of system](Overview|Overview of system.md)
+-   [Overview of system](Overview of system.md)
 -   [Installation](Installation.md)
 -   [Docker](Docker.md)
 -   [Preinstalled virtual environment](Preinstalled virtual environment.md)
--   [DataFormats|Supported data formats](DataFormats|Supported data formats.md)
+-   [Supported data formats]Supported data formats.md)
 -   [Configuration](Configuration.md)
 -   [Commandline](Commandline.md)
--   [WMSExtensions|WMS Extensions](WMSExtensions|WMS Extensions.md)
+-   [WMS Extensions](WMS Extensions.md)
 -   [Tutorials](Tutorials.md)
 -   [Examples of usage](Examples of usage.md)
 -   [Troubleshooting](Troubleshooting.md)
