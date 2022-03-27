@@ -20,11 +20,11 @@ Topics
 ------
 
 -   [Workshops](Workshops.md)
--   [Overview of system](Overview of system.md)
+-   [Overview of system](Overview.md)
 -   [Installation](Installation.md)
 -   [Docker](Docker.md)
--   [Preinstalled virtual environment](Preinstalled virtual environment.md)
--   [Supported data formats](Supported data formats.md)
+-   [Preinstalled virtual environment](Preinstalled.md)
+-   [Supported data formats](Supported.md)
 -   [Configuration](Configuration.md)
 -   [Commandline](Commandline.md)
 -   [WMS Extensions](WMS Extensions.md)
