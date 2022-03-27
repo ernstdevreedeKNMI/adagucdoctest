@@ -27,9 +27,9 @@ Topics
 -   [Supported data formats](Supported.md)
 -   [Configuration](Configuration.md)
 -   [Commandline](Commandline.md)
--   [WMS Extensions](WMS Extensions.md)
+-   [WMS Extensions](WMS.md)
 -   [Tutorials](Tutorials.md)
--   [Examples of usage](Examples of usage.md)
+-   [Examples of usage](Examples.md)
 -   [Troubleshooting](Troubleshooting.md)
 
 http://adaguc.knmi.nl/
