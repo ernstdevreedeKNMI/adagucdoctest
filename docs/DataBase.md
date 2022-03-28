@@ -3,12 +3,12 @@ DataBase (dbtype,parameters, maxquerylimit)
 
 Configuration to access a PostgreSQL or SQLite database, for example:
 
-``` &lt;DataBase maxquerylimit="365"
+``` <DataBase maxquerylimit="365"
 parameters="dbname=thedatabase host=thehostname user=theuser
-password=asecretpassword"/&gt;```
+password=asecretpassword"/>```
 
-``` &lt;DataBase dbtype="sqlite"
-parameters="databasefile.db"/&gt;```
+```<DataBase dbtype="sqlite"
+parameters="databasefile.db"/>```
 
 -   dbtype can be either sqlite or postgresql. Default is postgresl
 -   parameters are the database parameters required for making the
