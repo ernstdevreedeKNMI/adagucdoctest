@@ -3,7 +3,7 @@ DataBase (dbtype,parameters, maxquerylimit)
 
 Configuration to access a PostgreSQL or SQLite database, for example:
 
-``` <DataBase maxquerylimit="365"
+```<DataBase maxquerylimit="365"
 parameters="dbname=thedatabase host=thehostname user=theuser
 password=asecretpassword"/>```
 
